@@ -5,7 +5,7 @@ To design and simulate a Verilog HDL code for swapping the values of three numbe
 ## Apparatus Required
 Vivado 2023.1 or equivalent Verilog simulation tool.
 
-Procedure
+## Procedure
 Launch Vivado 2023.1:
 
 Open Vivado and create a new project.
